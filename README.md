@@ -1,1 +1,1 @@
-# DM_Asch_conformity
+#Decision Making_Asch social conformity model
